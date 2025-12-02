@@ -1,4 +1,3 @@
-# web-development-assingment-4
 # JavaScript Console Quiz – Lab Assignment 4
 
 This is a simple JavaScript  quiz game that runs inside the browser console.  
@@ -23,3 +22,4 @@ At the end, it shows the final score.
 
 ## Breakpoints Tested
 - Works on all  modern browsers (Chrome, Edge, Firefox)
+
